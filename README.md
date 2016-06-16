@@ -1,0 +1,2 @@
+# hibernate_0300_BasicConfiguration
+hibernate基础配置
